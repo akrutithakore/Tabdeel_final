@@ -1,0 +1,29 @@
+.action {
+  margin: 2px;
+  font-family: sans-serif;
+    font-size: 12px;
+}
+#read{
+background-color: #0271c6;
+    color: white;
+    border-radius: 4px;
+    height: 28px;
+    width: 50px;
+    font-size: 12px;
+    border-width: 0px;
+}
+
+#write{
+        color: black;
+    border-radius: 4px;
+    height: 25px;
+    width: 50px;
+    background-color: white;
+    font-size: 12px;
+    border-width: 1px;
+}
+#action_title{
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
